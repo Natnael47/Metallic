@@ -1,0 +1,8 @@
+ abel-yalew             1212        14800.6         24       male         full-time
+ betty-teshome          2020          14200         22     female         Temporary
+ bezawit-gebru          4321        23000.5         28     female         part-time
+ bisrat-mamo            1213        29569.2         23       male         part-time
+ natnael-mahteme        3251          46000         21       male         full-time
+ roza-nega              1144          15000         25     female         part-time
+ seble-binyam           1311          32000         26     femlae         full-time
+ yohhanes-amanuel       1413        35050.7         27       male         temporary
